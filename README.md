@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ahmedhasan11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=100000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Ahmed+Hasan" alt="Hi, I'm Ahmed Hasan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=100000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Ahmed+Hasan+%F0%9F%91%8B" alt="Hi, I'm Ahmed Hasan 👋" />
 </a>
 
 <h2><b>Backend Developer (.NET)</b></h2>
