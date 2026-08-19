@@ -39,9 +39,22 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedhasan11&theme=dark" alt="Ahmed Hasan's GitHub Activity Overview" width="100%" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="82%" valign="top">
+      <p><b>582 contributions in the last year</b></p>
+      <img src="https://ghchart.rshah.org/216e39/ahmedhasan11" alt="Ahmed Hasan's GitHub Contribution Grid" width="100%" />
+    </td>
+    <td width="18%" valign="top" align="center">
+      <br/>
+      <a href="https://github.com/ahmedhasan11?tab=overview&from=2026-01-01"><img src="https://img.shields.io/badge/2026-0056D2?style=flat-square" alt="2026" /></a><br/>
+      <a href="https://github.com/ahmedhasan11?tab=overview&from=2025-01-01"><img src="https://img.shields.io/badge/2025-21262d?style=flat-square" alt="2025" /></a><br/>
+      <a href="https://github.com/ahmedhasan11?tab=overview&from=2024-01-01"><img src="https://img.shields.io/badge/2024-21262d?style=flat-square" alt="2024" /></a><br/>
+      <a href="https://github.com/ahmedhasan11?tab=overview&from=2023-01-01"><img src="https://img.shields.io/badge/2023-21262d?style=flat-square" alt="2023" /></a><br/>
+      <a href="https://github.com/ahmedhasan11?tab=overview&from=2022-01-01"><img src="https://img.shields.io/badge/2022-21262d?style=flat-square" alt="2022" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
