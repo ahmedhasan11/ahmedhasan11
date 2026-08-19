@@ -1,7 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Hasan
-##  .NET Backend Developer
+<a href="https://github.com/ahmedhasan11">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=100000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Ahmed+Hasan+👋" alt="Hi, I'm Ahmed Hasan 👋" />
+</a>
+
+<h2><b>Backend Developer (.NET)</b></h2>
 
 <h3><b>Specializing in backend development using ASP.NET Core & SQL Server</b></h3>
 <p align="center">
@@ -36,7 +39,6 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
 </font>
 
 ---
-
 
 ## 💻 Projects
 
