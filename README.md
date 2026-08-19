@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Hasan
-## ** .NET Backend Developer **
+##  .NET Backend Developer
 
 <h3><b>Specializing in backend development using ASP.NET Core & SQL Server</b></h3>
 <p align="center">
