@@ -1,11 +1,11 @@
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Hasan
-### **Backend Developer (.NET)**
+## **Backend Developer (.NET)**
 
+<h3><b>Specializing in backend development using ASP.NET Core & SQL Server</b></h3>
 <p align="center">
-  <b>Specializing in backend development using ASP.NET Core & SQL Server.</b><br/>
-  <sub>Designing & building scalable Web APIs using Clean Architecture, EF Core, and RESTful services.</sub>
+  <font size="4">Designing & building scalable Web APIs using Clean Architecture, EF Core, and RESTful services.</font>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://flowcv.com/resume/hb69hr65iibm">
     <img src="https://img.shields.io/badge/Resume/CV-0056D2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
-  <a href="mailto:eng.ahmedhasan1@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eng.ahmedhasan1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -26,17 +26,21 @@
 
 ## 📌 About Me
 
+<font size="4">
+
 I am a **Computer Science graduate from Mansoura University** specializing in **.NET Backend Development**. I am passionate about engineering high-performance Web APIs, clean software architectures, and scalable data solutions with a strong focus on writing maintainable C# code.
 
 - 🎓 **Education**: Bachelor’s Degree in Computer Science from Mansoura University *(Grade: Excellent, Ranked 10th among top-performing students)*.
 - ⚙️ **Core Specialization**: Designing RESTful Web APIs, Clean Architecture, Entity Framework Core, and SQL Server optimization.
+
+</font>
 
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhasan11&theme=github-dark&hide_border=true&area=true" alt="Ahmed Hasan's GitHub Contribution Grid" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedhasan11&theme=dark" alt="Ahmed Hasan's GitHub Activity Overview" width="100%" />
 </div>
 
 ---
@@ -46,9 +50,9 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
 <table width="100%">
   <tr>
     <td width="33.33%" valign="top">
-      <h4><a href="https://github.com/ahmedhasan11/restflow-saas-api">📦 restflow-saas-api</a></h4>
+      <h3><a href="https://github.com/ahmedhasan11/restflow-saas-api">📦 restflow-saas-api</a></h3>
       <p><b>Multi-Tenancy Restaurant API</b></p>
-      <p>Production-ready multi-tenant SaaS backend with tenant isolation, RBAC, JWT auth with refresh token rotation, and FCM background notifications.</p>
+      <p><font size="3">Production-ready multi-tenant SaaS backend with tenant isolation, RBAC, JWT auth with refresh token rotation, and FCM background notifications.</font></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -57,9 +61,9 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
       </p>
     </td>
     <td width="33.33%" valign="top">
-      <h4><a href="https://github.com/ahmedhasan11/ecom-paymob-api">📦 ecom-paymob-api</a></h4>
+      <h3><a href="https://github.com/ahmedhasan11/ecom-paymob-api">📦 ecom-paymob-api</a></h3>
       <p><b>E-Commerce Paymob API</b></p>
-      <p>Clean Architecture API with automated stock reservation expiration via Hangfire, optimistic locking, Paymob webhook handling & Redis caching.</p>
+      <p><font size="3">Clean Architecture API with automated stock reservation expiration via Hangfire, optimistic locking, Paymob webhook handling & Redis caching.</font></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -69,9 +73,9 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
       </p>
     </td>
     <td width="33.33%" valign="top">
-      <h4><a href="https://github.com/ahmedhasan11/Healthcare-Ecommerce-MVC">📦 Healthcare-Ecommerce-MVC</a></h4>
+      <h3><a href="https://github.com/ahmedhasan11/Healthcare-Ecommerce-MVC">📦 Healthcare-Ecommerce-MVC</a></h3>
       <p><b>ClickClinic Healthcare MVC System</b></p>
-      <p>Pharmaceutical healthcare platform connecting patients, doctors, and admins with Stripe payments, doctor-patient chat, and role dashboards.</p>
+      <p><font size="3">Pharmaceutical healthcare platform connecting patients, doctors, and admins with Stripe payments, doctor-patient chat, and role dashboards.</font></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -89,9 +93,9 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/ahmedhasan11/HarshaASP.Net10-UltimateGuide">📦 HarshaASP.Net10-UltimateGuide</a></h4>
+      <h3><a href="https://github.com/ahmedhasan11/HarshaASP.Net10-UltimateGuide">📦 HarshaASP.Net10-UltimateGuide</a></h3>
       <p><b>ASP.NET Core Ultimate Guide & Practical Labs</b></p>
-      <p>Comprehensive course repository practicing ASP.NET Core, Minimal APIs, Clean Architecture, SOLID, xUnit, and Serilog logging.</p>
+      <p><font size="3">Comprehensive course repository practicing ASP.NET Core, Minimal APIs, Clean Architecture, SOLID, xUnit, and Serilog logging.</font></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -99,9 +103,9 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/ahmedhasan11/ITI-Internship.NET">📦 ITI-Internship.NET</a></h4>
+      <h3><a href="https://github.com/ahmedhasan11/ITI-Internship.NET">📦 ITI-Internship.NET</a></h3>
       <p><b>ITI .NET Software Engineering Internship</b></p>
-      <p>Completed intensive 150-hour ITI training program covering SQL Server, C#, EF Core, database design, ASP.NET MVC, and team hackathons.</p>
+      <p><font size="3">Completed intensive 150-hour ITI training program covering SQL Server, C#, EF Core, database design, ASP.NET MVC, and team hackathons.</font></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
@@ -168,7 +172,7 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
   <a href="https://flowcv.com/resume/hb69hr65iibm">
     <img src="https://img.shields.io/badge/Resume/CV-0056D2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume/CV" />
   </a>
-  <a href="mailto:eng.ahmedhasan1@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eng.ahmedhasan1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
