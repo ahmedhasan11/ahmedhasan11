@@ -31,7 +31,7 @@
 
 <font size="4">
 
-I am a **Computer Science graduate from Mansoura University** specializing in **.NET Backend Development**. I am passionate about engineering high-performance Web APIs, clean software architectures, and scalable data solutions with a strong focus on writing maintainable C# code.
+I am a **Computer Science graduate** specializing in **.NET Backend Development**. I am passionate about engineering high-performance Web APIs, clean software architectures, and scalable data solutions with a strong focus on writing maintainable C# code.
 
 - 🎓 **Education**: Bachelor’s Degree in Computer Science from Mansoura University *(Grade: Excellent, Ranked 10th among top-performing students)*.
 - ⚙️ **Core Specialization**: Designing RESTful Web APIs, Clean Architecture, Entity Framework Core, and SQL Server optimization.
