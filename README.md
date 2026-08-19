@@ -40,7 +40,7 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhasan11&theme=github-dark&hide_border=true&area=true" alt="Ahmed Hasan's GitHub Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/216e39/ahmedhasan11" alt="Ahmed Hasan's GitHub Contribution Calendar" width="100%" />
 </div>
 
 ---
