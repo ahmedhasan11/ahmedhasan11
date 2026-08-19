@@ -37,13 +37,6 @@ I am a **Computer Science graduate from Mansoura University** specializing in **
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/216e39/ahmedhasan11" alt="Ahmed Hasan's GitHub Contribution Calendar" width="100%" />
-</div>
-
----
 
 ## 💻 Projects
 
